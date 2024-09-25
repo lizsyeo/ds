@@ -3,3 +3,10 @@ title: Elizabeth Yeo
 #description:
 show_downloads: true
 theme: minima
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Work Experience"
+    url: "/work-experience/"
