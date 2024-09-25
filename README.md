@@ -1,4 +1,4 @@
-# Work Experience
+
 
 **Data Scientist**  
 *Scotiabank; Toronto, ON* <span style="float: right;">Nov 2023 - Present</span>  
@@ -15,6 +15,3 @@
 
 ---
 
-# Education
----
-# Projects
