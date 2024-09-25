@@ -14,3 +14,5 @@ categories: [data, regression]
 - The dataset is highly imbalanced; 99.83% of the transactions were Non-Fraud while 0.17% of the transactions were fraud.
   
 ![Class Distribution](assets/images/class_dist.png) 
+![Class Distribution](../assets/images/class_dist.png)
+
