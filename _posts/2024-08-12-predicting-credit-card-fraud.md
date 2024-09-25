@@ -13,4 +13,4 @@ categories: [data, regression]
 - The transaction amount is small. The mean of all the transaction amounts is approx. $88.
 - The dataset is highly imbalanced; 99.83% of the transactions were Non-Fraud while 0.17% of the transactions were fraud.
   
-![Class Distribution](assets/class_dist.png) 
+![Class Distribution](/assets/class_dist.png) 
