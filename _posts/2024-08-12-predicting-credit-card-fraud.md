@@ -2,7 +2,7 @@
 layout: post
 title: "Predicting Credit Card Fraud"
 date: 2024-08-12
-categories: [data, regression]
+categories: projects
 ---
 
 ### Summary
