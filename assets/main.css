@@ -1,0 +1,17 @@
+h1 {
+  display: flex;
+  align-items: center;
+}
+
+h1 a {
+  margin-left: 10px; /* Adjust spacing between icons and title */
+}
+
+h1 i {
+  font-size: 24px; /* Adjust icon size */
+  color: #333; /* Icon color */
+}
+
+h1 a:hover i {
+  color: #0077b5; /* Color change on hover */
+}
