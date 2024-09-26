@@ -3,7 +3,7 @@
 </head>
 
 
-<h1>Elizabeth Yeo's Site
+<h1>Contact
   <a href="mailto:lizsyeo@gmail.com"><i class="fas fa-envelope"></i></a>
   <a href="https://github.com/lizsyeo" target="_blank"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/lizsyeo" target="_blank"><i class="fab fa-linkedin"></i></a>
