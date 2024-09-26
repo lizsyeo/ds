@@ -13,3 +13,4 @@ nav_links:
 
 # Base URL should be empty for root domain
 baseurl: ""  # Ensure this is empty or remove this line if it's set
+permalink: /:categories/:year/:month/:day/:title/
