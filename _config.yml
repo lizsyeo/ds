@@ -10,3 +10,6 @@ nav_links:
     url: "/"
   - title: "Work Experience"
     url: "/work-experience/"
+
+# Base URL should be empty for root domain
+baseurl: ""  # Ensure this is empty or remove this line if it's set
