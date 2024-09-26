@@ -1,4 +1,4 @@
-<h1>Elizabeth Yeo's Site
+#<h1>Elizabeth Yeo's Site
   <a href="mailto:lizsyeo@gmail.com" target="_blank">
     <i class="fas fa-envelope"></i>
   </a>
@@ -18,4 +18,5 @@
 - Visualization: PowerBI, Tableau
 - Database: MySQL
 
+<link rel="stylesheet" href="/assets/main.css">
 
